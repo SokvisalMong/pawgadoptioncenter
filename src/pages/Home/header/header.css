@@ -1,0 +1,27 @@
+.container {
+    position: relative;
+}
+
+.header_background{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.header_fullbackground {
+    background-color: #FEC723;
+}
+
+.header_text {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    bottom: 50%;
+}
+
+.header_text p {
+    font-size: 48px;
+    font-weight: 800;
+    margin-bottom:10px;
+}

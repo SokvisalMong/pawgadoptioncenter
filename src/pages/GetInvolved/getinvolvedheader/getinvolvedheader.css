@@ -1,0 +1,14 @@
+.get_involved_dog img {
+    width: 1300px;
+    height: 570px;
+}
+
+.get_involved_dog {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.get_involved_background {
+    background-color: #ffffff;
+}

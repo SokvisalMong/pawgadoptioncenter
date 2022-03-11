@@ -1,0 +1,63 @@
+.pinkcatdog_background {
+    background-color: #fabdcc;
+}
+
+.pinkcatdog {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.learnmore_whatwedo h3 {
+    font-weight: bold;
+    font-size: 48px;
+    margin: 50px;
+}
+
+.learnmore_whatwedo p {
+    text-align: center;
+    font-size: 24px;
+    margin: 10px;
+}
+
+.learnmore_whatwedo {
+    color: white;
+    text-align: center;
+}
+
+.meet_the_team_button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 70px;
+}
+
+.meet_the_team_buttonbutton {
+    color: black;
+    background: white;
+    border: none;
+    outline: none;
+    font-family: Inter;
+    border-radius: 5px;
+    padding: 1rem 2rem;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.learnmore_full {
+    text-align: center;
+    color: white;
+    align-items: center;
+}
+
+.learnmore_full p {
+    font-size: 24px;
+    margin: 10px;
+}
+
+.row1_text, .row2_text, .row3_text, .row4_text {
+    margin: 30px;
+}
+.learnmore_full h4 {
+    color: #fec723;
+}

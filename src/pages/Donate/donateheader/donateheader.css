@@ -1,0 +1,9 @@
+.green_dog {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.green_background {
+    background-color: #aff6a8;
+}

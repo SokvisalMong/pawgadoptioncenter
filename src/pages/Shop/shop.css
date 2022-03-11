@@ -1,0 +1,18 @@
+.shop_cs {
+    text-align: center;
+    margin: 148px;
+}
+
+.shop_text {
+    color: #fec723;
+    font-weight: bold;
+    font-size: 80px;
+    margin: 10px;
+}
+
+.coming_soon {
+    color: white;
+    font-style: italic;
+    font-size: 50px;
+    margin: 10px;
+}

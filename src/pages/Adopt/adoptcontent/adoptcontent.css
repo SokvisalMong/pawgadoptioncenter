@@ -1,0 +1,47 @@
+.apply_for_adoption {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 70px;
+}
+
+.apply_for_adoption_button {
+    color: black;
+    background: white;
+    border: none;
+    outline: none;
+    font-family: Inter;
+    border-radius: 5px;
+    padding: 1rem 2rem;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.adopt_content {
+    text-align: center;
+    color: white;
+}
+
+.adopt_content h3 {
+    font-weight: bold;
+    font-size: 48px;
+    margin: 50px;
+}
+
+.adopt_content p {
+    font-size: 24px;
+    margin: 10px;
+}
+
+.adopt_me_dog img {
+    width: 800px;
+    height: 500px;
+}
+
+.adopt_me_dog {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+

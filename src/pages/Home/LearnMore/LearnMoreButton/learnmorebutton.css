@@ -1,0 +1,18 @@
+.learnmore_button {
+    color: black;
+    background: white;
+    border: none;
+    outline: none;
+    font-family: Inter;
+    border-radius: 5px;
+    padding: 1rem 2rem;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.learn_button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 70px;
+}
